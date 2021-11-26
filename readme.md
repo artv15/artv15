@@ -9,7 +9,7 @@
 
 ## 🖥 Языки
 
-[![PHP](https://img.shields.io/badge/-.FRAMEWORK-090909?style=for-the-badge&logo=.net&logoColor=512BD4)]()
+[![PHP](https://img.shields.io/badge/-FRAMEWORK-090909?style=for-the-badge&logo=.net&logoColor=512BD4)]()
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)]()
 [![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=777BB4)]()
 
