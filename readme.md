@@ -2,7 +2,7 @@
 ### Занимаюсь программированием! 😁
 ### Люблю поиграть в игры! 🕹
 
-<a href="https://www.github.com/Exiled-Team/EXILED%22%3E<img align="right" alt="Exiled" width="52px" src="https://raw.githubusercontent.com/Exiled-Team/EXILED/master/assets/Exiled_Icon.ico%22/%3E</a></img>
+<a href="https://www.github.com/Exiled-Team/EXILED"><img align="right" alt="Exiled" width="52px" src="https://raw.githubusercontent.com/Exiled-Team/EXILED/master/assets/Exiled_Icon.ico"/></a></img>
 
 ### 🖥 Мои плагины ([Exiled](https://github.com/Exiled-Team/EXILED))
 - [FunnyGuns](https://github.com/artv15/FunnyGuns)
@@ -21,4 +21,4 @@
 ### Вы можете поодержать моё творчество! ❤
 _Скоро_
 
-![Статистика Профиля](https://github-readme-stats.vercel.app/api?username=artv15&theme=merko&locale=ru&show_icons=true&custom_title=Статистика) 
+![Статистика Профиля](https://github-readme-stats.vercel.app/api?username=artv15&theme=merko&locale=ru&show_icons=true&custom_title=Статистика)
