@@ -6,6 +6,8 @@
 
 ### 🖥 Мои плагины ([Exiled](https://github.com/Exiled-Team/EXILED))
 - [FunnyGuns](https://github.com/artv15/FunnyGuns)
+### 🖥 Мои плагины ([Qurre](https://github.com/Qurre-Team/Qurre-sl))
+- [FunnyGuns (Qurre edition)](https://github.com/artv15/FunnyGuns-Qurre-Edition)
 
 ## 🖥 Языки
 
