@@ -5,7 +5,7 @@
 <a href="https://www.github.com/Exiled-Team/EXILED"><img align="right" alt="Exiled" width="52px" src="https://raw.githubusercontent.com/Exiled-Team/EXILED/master/assets/Exiled_Icon.ico"/></a></img>
 
 ### 🖥 Мои плагины ([Exiled](https://github.com/Exiled-Team/EXILED))
-- [FunnyGuns](https://github.com/artv15/FunnyGuns)
+- [FunnyGuns (не поддерживается)](https://github.com/artv15/FunnyGuns)
 ### 🖥 Мои плагины ([Qurre](https://github.com/Qurre-Team/Qurre-sl))
 - [FunnyGuns (Qurre edition)](https://github.com/artv15/FunnyGuns-Qurre-Edition)
 
